@@ -5,7 +5,9 @@
 
 ### Input :
 ![JSON Parser](https://i1.wp.com/randomnerdtutorials.com/wp-content/uploads/2017/08/open-weather-map-test-api.png?resize=813.75%2C309&ssl=1)
-#####Open Weather API Data
+
+##### Open Weather API Data
+
 ----------------
 ###Output
 
