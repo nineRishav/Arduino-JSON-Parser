@@ -1,4 +1,4 @@
-# JSON parser for Arduino : No Exteranl Library
+# JSON parser for Arduino : No External Library
 
 
 ![JSON Parser](https://i.ytimg.com/vi/WmoGFs6IQVs/maxresdefault.jpg)
