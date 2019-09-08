@@ -3,7 +3,7 @@
 Serial Data Parsing is recommended(Baud-rate)
 Can’t store more than 256 characters in the Buffer Memory. So I have to Extract and store only required variables
 
-![JSON Parser](https://i.ytimg.com/vi/WmoGFs6IQVs/maxresdefault.jpg)
+![JSON Parser](https://github.com/oddRishav/Arduino-JSON-Parser/blob/master/visualization.jpg)
 
 ### Input :
 ![JSON Parser](https://i1.wp.com/randomnerdtutorials.com/wp-content/uploads/2017/08/open-weather-map-test-api.png?resize=813.75%2C309&ssl=1)
