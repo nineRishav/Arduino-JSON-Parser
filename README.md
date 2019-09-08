@@ -10,7 +10,7 @@
 
 ----------------
 ### Output
-
+`$ npm install marked`
 Converts Json into key-value Pair
 
 ### **Application Areas**
