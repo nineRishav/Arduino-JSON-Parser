@@ -28,3 +28,5 @@ e.g. **temp,pressure,humidity and wind-speed** can be easily extracted, stored i
 ### **Application Areas**
 - Space Compact programs
 - No Use of External Library
+
+![Image](https://cdn-learn.adafruit.com/guides/cropped_images/000/000/342/medium640/Stack_Operation.gif?1534968899)
